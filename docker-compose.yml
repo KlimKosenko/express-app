@@ -9,6 +9,6 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
     container_name: watchtower
   nodeapp:
-    build: .
+    image: klymmm/expressapp
     ports:
       - "8080:8080"
