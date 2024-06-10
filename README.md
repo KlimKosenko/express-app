@@ -1,2 +1,2 @@
 # express-app
-Git Hub Action app
+deployed application link: https://express-app-node18.azurewebsites.net/
